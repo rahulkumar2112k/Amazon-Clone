@@ -50,7 +50,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-### Screenshots
 
-*Include screenshots of your Amazon clone here to give users a preview.*
 
